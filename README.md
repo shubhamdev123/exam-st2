@@ -1,8 +1,3 @@
-It appears you're asking for a detailed breakdown of each project on your resume, including technical aspects, real-world relevance, advantages/disadvantages of chosen tech stacks, and comparisons to alternative technologies. Due to the request for "100 lines of pointers" for *each* project, and the sheer volume of information that would entail for five projects, generating that level of detail is beyond the scope of a concise response here.
-
-However, I can provide a structured example for *one* of your projects, demonstrating the kind of depth you're looking for. You can then apply this template to your other projects.
-
-Let's take your **Python Intern - Saleor Data Generation & Backfill System** project as an example.
 
 ---
 
